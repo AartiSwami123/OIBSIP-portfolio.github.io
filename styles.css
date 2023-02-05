@@ -198,7 +198,7 @@ nav {
     border: 6px double black;
     
    }
-   @media screen and (max-width: 600px){
+   @media screen and (max-width: 450px){
     .logo2 p{
         font-size: 25px;
     }
@@ -214,7 +214,7 @@ nav {
     }
    }
 
-   @media screen and (max-width: 900px) and(min-width: 600px) {
+   @media screen and (max-width: 900px) and(min-width: 450px) {
     .logo2 p{
         font-size: 25px;
     }
